@@ -1,3 +1,5 @@
+![20defe2e-8b28-4546-9415-cf52ffa8c685](https://github.com/user-attachments/assets/4e221d2f-71e1-461b-b3e0-0981887a2276)
+![5a212f8d-3146-4f5b-9474-73fc0bf7448e](https://github.com/user-attachments/assets/c42cacbc-7e81-4fb9-8a8f-a028668e0381)
 # [MyDevil .htaccess Configs](https://github.com/rechandler12/htaccess-configs-mydevil/)
 
 [![Build Status](https://travis-ci.com/rechandler12/htaccess-configs-mydevil.svg?branch=master)](https://travis-ci.com/rechandler12/htaccess-configs-mydevil)
